@@ -1,0 +1,10 @@
+Package: DJFFunctions
+Title: Daniel Farnand's Quick Functions
+Version: 0.2
+Authors@R: person("Daniel", "Farnand", email = "dfarnand@nyu.edu", role = c("aut", "cre"))
+Description: A set of functions I wrote for my own projects, packaged to make them more conveniently available.
+Depends: R (>= 3.3.2)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.0
